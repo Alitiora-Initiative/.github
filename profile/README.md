@@ -1,48 +1,41 @@
 # Alitiora Initiative
 
-Independent builders shipping honest, testable software — starting with **Solana Devnet** experiments you can try without real money.
+Independent studio in Kenya. Public software, named operator, written limits.
 
-**Location:** Kenya  
+**Lead:** Joseph Mushelle Nyingeh  
 **Contact:** [jaymnyon@gmail.com](mailto:jaymnyon@gmail.com)  
-**Lead:** Joseph Mushelle Nyingeh
+**Site:** [alitiora-initiative.vercel.app](https://alitiora-initiative.vercel.app)
 
 ---
 
-## Active project
+## Repositories
 
 ### [Space Ledger](https://github.com/Alitiora-Initiative/Space-Ledger)
 
-Shared digital canvas on **Solana Devnet** (10 billion blocks). Primary-sale bonding curve, on-chain receipts, multi-wallet connect.
+Shared canvas on **Solana Devnet**. Primary-sale bonding curve and on-chain receipts. Not a secondary market and not mainnet.
 
 | | |
 |---|---|
 | **Live** | [space-ledger-alitiora.vercel.app](https://space-ledger-alitiora.vercel.app) |
-| **Network** | Devnet only |
 | **Program** | `EbP7vsnMXPonTfriPUFynco69d69JiXpWbKnwVmz8sgG` |
 
-Devnet tokens have **no real-world value**. Not a secondary market, not mainnet, not an investment product.
+Devnet tokens have **no real-world value**.
 
-**Try it:** wallet on Devnet → faucet SOL → Connect → Pricing → quote → approve in wallet.
+### [MIRA](https://github.com/Alitiora-Initiative/MIRA)
+
+Separate trading experiment (Python engine and web dashboard). Not part of Space Ledger. The repository warns that live exchange mode can lose money. Read that warning before running it.
+
+Dashboard listed on the repo: [web-dashboard-jolse.vercel.app](https://web-dashboard-jolse.vercel.app)
+
+### [Organization site](https://github.com/Alitiora-Initiative/alitiora-initiative)
+
+Home, About, Work, Principles, and Contact for this studio.
 
 ---
 
 ## Principles
 
-- Ship on **free tiers** first; use grants when scale or audits are needed
-- Prefer **on-chain truth** (receipts, explorers) over marketing claims
-- Clear disclaimers — no fake markets or simulated “live trading”
-- Document what works **and** what does not
-
----
-
-## Optional support
-
-If you want to help the builder access tools and hosting, see the Space Ledger [Treasury](https://space-ledger-alitiora.vercel.app/pages/treasury.html) page (live progress goal). Support is never required to use the apps.
-
----
-
-## Links
-
-- Org: [github.com/Alitiora-Initiative](https://github.com/Alitiora-Initiative)
-- Space Ledger: [github.com/Alitiora-Initiative/Space-Ledger](https://github.com/Alitiora-Initiative/Space-Ledger)
-- Live app: [space-ledger-alitiora.vercel.app](https://space-ledger-alitiora.vercel.app)
+- Free tiers first; grants when scale or an audit is the next step
+- On-chain receipts over marketing claims
+- Say what is not built
+- Support inside Space Ledger is optional and is not an investment
